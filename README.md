@@ -1,30 +1,31 @@
 # 🌾 Solving Market Access and Price Exploitation Problems Faced by Indian Farmers Using AI and Data Science
 
 ## 💬 Our Thought Behind the Research
-okay so this is not some college-assigned research or fancy AI project.
-me and dhwani just wanted to work on something real. something that actually matters.
-we both were thinking — instead of doing another generic AI topic, why not pick something people barely talk about?
-something that still affects millions, but never gets the spotlight.
-and that’s how we ended up diving into farmer issues.
-even in 2025, so many farmers still don’t get fair prices for their crops.
-they don’t have access to market prices, buyer info, or proper selling tools.
-they’re stuck depending on middlemen and end up selling at whatever rate they’re told.
-and the worst part? the emotional and mental pressure they silently go through.
-we came across real suicide data from Marathwada — and that honestly broke us.
+Okay so this is not some college-assigned research or fancy AI project.
+Me and dhwani just wanted to work on something real. something that actually matters.
+We both were thinking — instead of doing another generic AI topic, why not pick something people barely talk about?
+Something that still affects millions, but never gets the spotlight.
+And that’s how we ended up diving into farmer issues.
+Even in 2025, so many farmers still don’t get fair prices for their crops.
+They don’t have access to market prices, buyer info, or proper selling tools.
+They’re stuck depending on middlemen and end up selling at whatever rate they’re told.
+And the worst part? the emotional and mental pressure they silently go through.
+We came across real suicide data from Marathwada — and that honestly broke us.
 
 so we decided to write a research brief — not a full paper (yet), but something to understand the real reasons and figure out:
+
 **why existing tech isn’t helping farmers**
 
 **how AI + data science can actually make a difference**
 
 **what simple, local-language, offline-friendly tools could look like**
 
-this topic felt personal. real. needed.
+This topic felt personal. real. needed.
 
-it’s not just about building something cool with AI — it’s about building something that actually helps.
+It’s not just about building something cool with AI — it’s about building something that actually helps.
 
-this is just the beginning. full paper coming soon.
-but honestly? this first step already feels like something we’re proud of.
+This is just the beginning. full paper coming soon.
+But honestly? this first step already feels like something we’re proud of.
 
 ## 🎯 Purpose of the Study
 
